@@ -1,0 +1,19 @@
+{
+    "name": "Trinity.Hotfix",
+    "references": [
+        "UnityGameFramework.Runtime",
+        "GF.Libraries",
+        "GF.GameMain",
+        "FancyScrollView",
+        "GameFramework"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

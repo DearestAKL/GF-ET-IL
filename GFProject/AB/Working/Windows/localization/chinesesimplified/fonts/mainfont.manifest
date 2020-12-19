@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 465457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e21f7347a7abf98db1bb33ce32f270
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44912aa95bf28c03affddc6817be15fe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Localization/ChineseSimplified/Fonts/MainFont.ttf
+Dependencies:
+- E:/GFProject/GFProject/AB/Working/Windows/localization/chinesetraditional/fonts/mainfont

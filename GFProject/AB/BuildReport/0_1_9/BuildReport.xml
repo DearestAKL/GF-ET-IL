@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>GFProject</ProductName>
+      <CompanyName>DefaultCompany</CompanyName>
+      <GameIdentifier>com.DefaultCompany.GFProject</GameIdentifier>
+      <GameFrameworkVersion>2020.11.03</GameFrameworkVersion>
+      <UnityVersion>2019.4.0f1</UnityVersion>
+      <ApplicableGameVersion>0.1</ApplicableGameVersion>
+      <InternalResourceVersion>9</InternalResourceVersion>
+      <Platforms>Windows</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <BuildAssetBundleOptions>272</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="30">
+      <Resource Name="Configs/BuildInfo" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="0f596defdfb2ae14caac5accd8577412" Name="Assets/Res/Configs/BuildInfo.txt" Length="228" HashCode="1122313355" />
+        </Assets>
+        <Codes>
+          <Windows Length="1273" HashCode="1909317823" ZipLength="1075" ZipHashCode="1284334121" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/BuildSettings" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="4da56b1690512f14b8578082d6485c13" Name="Assets/Res/Configs/BuildSettings.xml" Length="307" HashCode="2049332610" />
+        </Assets>
+        <Codes>
+          <Windows Length="1331" HashCode="-2147204150" ZipLength="1111" ZipHashCode="-1571414915" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/DataTableCodeTemplate" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="b3591aed49bc5fe478ef26005023bb20" Name="Assets/Res/Configs/DataTableCodeTemplate.txt" Length="1109" HashCode="1284423738" />
+        </Assets>
+        <Codes>
+          <Windows Length="1774" HashCode="-1561950061" ZipLength="1527" ZipHashCode="-1218737011" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/DebuggerSkin" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="40dff68045ccd2245aa10f95451cae6a" Name="Assets/Res/Configs/DebuggerSkin.guiskin" Length="36746" HashCode="1322559949" />
+        </Assets>
+        <Codes>
+          <Windows Length="15684" HashCode="579986026" ZipLength="6414" ZipHashCode="-112626233" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/DefaultConfig" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="cdf569eaa045c444eb3b1d834bee5fc0" Name="Assets/Res/Configs/DefaultConfig.txt" Length="114" HashCode="1526392166" />
+        </Assets>
+        <Codes>
+          <Windows Length="1233" HashCode="-1047900131" ZipLength="1051" ZipHashCode="1122454482" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/DefaultDictionary" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="b213920be0a6cea4eb6e0a5afd07555e" Name="Assets/Res/Configs/DefaultDictionary.xml" Length="2000" HashCode="-1289879382" />
+        </Assets>
+        <Codes>
+          <Windows Length="1745" HashCode="612161100" ZipLength="1525" ZipHashCode="-1359025622" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/ResourceBuilder" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="2d5f957888c2ce544b6320c6fbc26b3b" Name="Assets/Res/Configs/ResourceBuilder.xml" Length="1180" HashCode="-723632680" />
+        </Assets>
+        <Codes>
+          <Windows Length="1644" HashCode="648752178" ZipLength="1376" ZipHashCode="-1458795052" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/ResourceCollection" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="fdd844a88b0d05844a0170df5c941e27" Name="Assets/Res/Configs/ResourceCollection.xml" Length="6192" HashCode="342368931" />
+        </Assets>
+        <Codes>
+          <Windows Length="3220" HashCode="306654725" ZipLength="2599" ZipHashCode="109593000" />
+        </Codes>
+      </Resource>
+      <Resource Name="Configs/ResourceEditor" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="8c5304f5a962df34e9a8d4409e406b21" Name="Assets/Res/Configs/ResourceEditor.xml" Length="831" HashCode="1230718736" />
+        </Assets>
+        <Codes>
+          <Windows Length="1582" HashCode="619126554" ZipLength="1315" ZipHashCode="-17680317" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/Entity" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="15d6e6cda1c70eb4e83f54ea2dc86351" Name="Assets/Res/DataTables/Entity.bytes" Length="303946" HashCode="-212597942" />
+          <Asset Guid="39d73a6654dd2a348b5b58876fb5869c" Name="Assets/Res/DataTables/Entity.txt" Length="622218" HashCode="958150088" />
+        </Assets>
+        <Codes>
+          <Windows Length="11914" HashCode="1476394776" ZipLength="2474" ZipHashCode="912564054" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/Music" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="5f4891b7892d3814fa09b372f3aba4b5" Name="Assets/Res/DataTables/Music.bytes" Length="0" HashCode="0" />
+          <Asset Guid="7ea15b29eb6e2754aa40de467a1ce05f" Name="Assets/Res/DataTables/Music.txt" Length="124" HashCode="1832082004" />
+        </Assets>
+        <Codes>
+          <Windows Length="1278" HashCode="1450167270" ZipLength="1096" ZipHashCode="-1450798014" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/Scene" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="3ffae109998ed02409967cda18384c03" Name="Assets/Res/DataTables/Scene.txt" Length="280" HashCode="-226362901" />
+          <Asset Guid="c0a6d6a5655369c40adefb57c8b6eecc" Name="Assets/Res/DataTables/Scene.bytes" Length="27" HashCode="1767644223" />
+        </Assets>
+        <Codes>
+          <Windows Length="1392" HashCode="2120256734" ZipLength="1186" ZipHashCode="-725099798" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/Sound" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="d030fa9314af24c48b8cf66b09e3f689" Name="Assets/Res/DataTables/Sound.bytes" Length="0" HashCode="0" />
+          <Asset Guid="f428f90e59d188b47ac5125415c1ba9d" Name="Assets/Res/DataTables/Sound.txt" Length="418" HashCode="2019160415" />
+        </Assets>
+        <Codes>
+          <Windows Length="1482" HashCode="102340715" ZipLength="1275" ZipHashCode="-437135770" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/UIForm" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="985dfce4072a40848bf51e7cb7afb9cb" Name="Assets/Res/DataTables/UIForm.bytes" Length="75" HashCode="-1423604452" />
+          <Asset Guid="c8427eb9cd657ab41b8c639ef8558c54" Name="Assets/Res/DataTables/UIForm.txt" Length="628" HashCode="-349497602" />
+        </Assets>
+        <Codes>
+          <Windows Length="1566" HashCode="-1397769584" ZipLength="1351" ZipHashCode="1183715101" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/UISound" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="61e8d77c7fd63cd48afe8906bb195428" Name="Assets/Res/DataTables/UISound.bytes" Length="0" HashCode="0" />
+          <Asset Guid="8910571ab2c4673458ba153cf1812ed1" Name="Assets/Res/DataTables/UISound.txt" Length="240" HashCode="-1218551441" />
+        </Assets>
+        <Codes>
+          <Windows Length="1374" HashCode="-841374097" ZipLength="1179" ZipHashCode="584999564" />
+        </Codes>
+      </Resource>
+      <Resource Name="Entities/TestEntity" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="a3bc23b12beceb046b7445048d33423d" Name="Assets/Res/Entities/TestEntity.prefab" Length="5806" HashCode="1658538259" />
+        </Assets>
+        <Codes>
+          <Windows Length="42069" HashCode="1430991262" ZipLength="32977" ZipHashCode="-1130194058" />
+        </Codes>
+      </Resource>
+      <Resource Name="HotfixDLL/Hotfix" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="2">
+          <Asset Guid="6ecae47c2d6568a4f907e92ec8a853be" Name="Assets/Res/HotfixDLL/Hotfix.dll.bytes" Length="77312" HashCode="1938843686" />
+          <Asset Guid="e54944d89366fab4cae940be53efc703" Name="Assets/Res/HotfixDLL/Hotfix.pdb.bytes" Length="42124" HashCode="124964103" />
+        </Assets>
+        <Codes>
+          <Windows Length="63627" HashCode="1628266955" ZipLength="51789" ZipHashCode="-1875211123" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/ChineseSimplified/Dictionaries/Default" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="5c4ce0b78392f474f84c4e9541b0f254" Name="Assets/Res/Localization/ChineseSimplified/Dictionaries/Default.xml" Length="182" HashCode="6052576" />
+        </Assets>
+        <Codes>
+          <Windows Length="1328" HashCode="579482680" ZipLength="1118" ZipHashCode="1071144257" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/ChineseSimplified/Fonts/MainFont" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="f20a9a7ae7f9c554db8c89c4f83d9535" Name="Assets/Res/Localization/ChineseSimplified/Fonts/MainFont.ttf" Length="7070444" HashCode="-915020890">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/Res/Localization/ChineseTraditional/Fonts/MainFont.ttf" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Windows Length="4628448" HashCode="-791238211" ZipLength="4052550" ZipHashCode="-373733120" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/ChineseTraditional/Dictionaries/Default" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="360d81fa2639b86488d6a4931e8501ff" Name="Assets/Res/Localization/ChineseTraditional/Dictionaries/Default.xml" Length="183" HashCode="-1876233787" />
+        </Assets>
+        <Codes>
+          <Windows Length="1315" HashCode="-1153735663" ZipLength="1109" ZipHashCode="1499411246" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/ChineseTraditional/Fonts/MainFont" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="0e69fd143bd0ed441919638a0a621cfe" Name="Assets/Res/Localization/ChineseTraditional/Fonts/MainFont.ttf" Length="7070444" HashCode="-915020890">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/Res/Localization/ChineseSimplified/Fonts/MainFont.ttf" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Windows Length="4628510" HashCode="2058038680" ZipLength="4052605" ZipHashCode="-2039850976" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/English/Dictionaries/Default" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="79985fb8be6d3724580aee85f2055507" Name="Assets/Res/Localization/English/Dictionaries/Default.xml" Length="172" HashCode="842418281" />
+        </Assets>
+        <Codes>
+          <Windows Length="1301" HashCode="378447069" ZipLength="1099" ZipHashCode="-1482217800" />
+        </Codes>
+      </Resource>
+      <Resource Name="Localization/English/Fonts/MainFont" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="2c96c14df54fb8b4c9c22bf3e973dc58" Name="Assets/Res/Localization/English/Fonts/MainFont.ttf" Length="135848" HashCode="-336931024" />
+        </Assets>
+        <Codes>
+          <Windows Length="93212" HashCode="-883531945" ZipLength="81280" ZipHashCode="-759947210" />
+        </Codes>
+      </Resource>
+      <Resource Name="Scenes/Battle" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="2f01b3ee800fa4c4ebe240f2f3a1f72a" Name="Assets/Res/Scenes/Battle.unity" Length="12548" HashCode="-753739043" />
+        </Assets>
+        <Codes>
+          <Windows Length="23811" HashCode="-1416310116" ZipLength="17085" ZipHashCode="1708331057" />
+        </Codes>
+      </Resource>
+      <Resource Name="Scenes/Login" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="f1b83de86c95b984e973ac6302f31e65" Name="Assets/Res/Scenes/Login.unity" Length="14394" HashCode="87802942" />
+        </Assets>
+        <Codes>
+          <Windows Length="24372" HashCode="-1968322504" ZipLength="17611" ZipHashCode="1205075314" />
+        </Codes>
+      </Resource>
+      <Resource Name="Scenes/Main" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="611546bdae9015849a813a02d31eeda0" Name="Assets/Res/Scenes/Main.unity" Length="12552" HashCode="555619014" />
+        </Assets>
+        <Codes>
+          <Windows Length="23788" HashCode="1781671852" ZipLength="17060" ZipHashCode="846777981" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UIForms/UIBattle/UIBattle" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="1556e7679b71f004f9207dcbd50ed08b" Name="Assets/Res/UI/UIForms/UIBattle/UIBattle.prefab" Length="14505" HashCode="1822914182" />
+        </Assets>
+        <Codes>
+          <Windows Length="9990" HashCode="-850433798" ZipLength="8150" ZipHashCode="-344344267" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UIForms/UILogin/UILogin" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="214c8d0b43756134da0af9c6798499f9" Name="Assets/Res/UI/UIForms/UILogin/UILogin.prefab" Length="14525" HashCode="-445715060" />
+        </Assets>
+        <Codes>
+          <Windows Length="9996" HashCode="-599989052" ZipLength="8170" ZipHashCode="-1242318370" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UIForms/UIMain/UIMain" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="6cc45502d297704409ece7a5ae394ab7" Name="Assets/Res/UI/UIForms/UIMain/UIMain.prefab" Length="14517" HashCode="421091184" />
+        </Assets>
+        <Codes>
+          <Windows Length="9991" HashCode="21579027" ZipLength="8130" ZipHashCode="790305158" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI/UIForms/UpdateResource" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="ac2b30b63a9693640b66e1869ff0f06b" Name="Assets/Res/UI/UIForms/UpdateResource.prefab" Length="15642" HashCode="1938443546" />
+        </Assets>
+        <Codes>
+          <Windows Length="957338" HashCode="1506414892" ZipLength="874166" ZipHashCode="409170854" />
+        </Codes>
+      </Resource>
+    </Resources>
+  </BuildReport>
+</UnityGameFramework>

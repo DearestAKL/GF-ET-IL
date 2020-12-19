@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 108644633
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: configs/buildinfo
+      Dependencies: {}
+    Info_1:
+      Name: configs/buildsettings
+      Dependencies: {}
+    Info_2:
+      Name: configs/datatablecodetemplate
+      Dependencies: {}
+    Info_3:
+      Name: configs/debuggerskin
+      Dependencies: {}
+    Info_4:
+      Name: configs/defaultconfig
+      Dependencies: {}
+    Info_5:
+      Name: configs/defaultdictionary
+      Dependencies: {}
+    Info_6:
+      Name: configs/resourcebuilder
+      Dependencies: {}
+    Info_7:
+      Name: configs/resourcecollection
+      Dependencies: {}
+    Info_8:
+      Name: configs/resourceeditor
+      Dependencies: {}
+    Info_9:
+      Name: datatables/entity
+      Dependencies: {}
+    Info_10:
+      Name: datatables/music
+      Dependencies: {}
+    Info_11:
+      Name: datatables/scene
+      Dependencies: {}
+    Info_12:
+      Name: datatables/sound
+      Dependencies: {}
+    Info_13:
+      Name: datatables/uiform
+      Dependencies: {}
+    Info_14:
+      Name: datatables/uisound
+      Dependencies: {}
+    Info_15:
+      Name: entities/testentity
+      Dependencies: {}
+    Info_16:
+      Name: hotfixdll/hotfix
+      Dependencies: {}
+    Info_17:
+      Name: localization/chinesesimplified/dictionaries/default
+      Dependencies: {}
+    Info_18:
+      Name: localization/chinesesimplified/fonts/mainfont
+      Dependencies:
+        Dependency_0: localization/chinesetraditional/fonts/mainfont
+    Info_19:
+      Name: localization/chinesetraditional/dictionaries/default
+      Dependencies: {}
+    Info_20:
+      Name: localization/chinesetraditional/fonts/mainfont
+      Dependencies:
+        Dependency_0: localization/chinesesimplified/fonts/mainfont
+    Info_21:
+      Name: localization/english/dictionaries/default
+      Dependencies: {}
+    Info_22:
+      Name: localization/english/fonts/mainfont
+      Dependencies: {}
+    Info_23:
+      Name: scenes/battle
+      Dependencies: {}
+    Info_24:
+      Name: scenes/login
+      Dependencies: {}
+    Info_25:
+      Name: scenes/main
+      Dependencies: {}
+    Info_26:
+      Name: ui/uiforms/uibattle/uibattle
+      Dependencies: {}
+    Info_27:
+      Name: ui/uiforms/uilogin/uilogin
+      Dependencies: {}
+    Info_28:
+      Name: ui/uiforms/uimain/uimain
+      Dependencies: {}
+    Info_29:
+      Name: ui/uiforms/updateresource
+      Dependencies: {}

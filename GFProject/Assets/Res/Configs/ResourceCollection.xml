@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs/BuildInfo" LoadType="0" Packed="False" />
+      <Resource Name="Configs/BuildSettings" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DataTableCodeTemplate" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DebuggerSkin" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DefaultConfig" LoadType="0" Packed="False" />
+      <Resource Name="Configs/DefaultDictionary" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceBuilder" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceCollection" LoadType="0" Packed="False" />
+      <Resource Name="Configs/ResourceEditor" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Entity" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Music" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Scene" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Sound" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/UIForm" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/UISound" LoadType="0" Packed="False" />
+      <Resource Name="Entities/TestEntity" LoadType="0" Packed="False" />
+      <Resource Name="HotfixDLL/Hotfix" LoadType="0" Packed="False" />
+      <Resource Name="Localization/ChineseSimplified/Dictionaries/Default" LoadType="0" Packed="False" />
+      <Resource Name="Localization/ChineseSimplified/Fonts/MainFont" LoadType="0" Packed="False" />
+      <Resource Name="Localization/ChineseTraditional/Dictionaries/Default" LoadType="0" Packed="False" />
+      <Resource Name="Localization/ChineseTraditional/Fonts/MainFont" LoadType="0" Packed="False" />
+      <Resource Name="Localization/English/Dictionaries/Default" LoadType="0" Packed="False" />
+      <Resource Name="Localization/English/Fonts/MainFont" LoadType="0" Packed="False" />
+      <Resource Name="Scenes/Battle" LoadType="0" Packed="False" />
+      <Resource Name="Scenes/Login" LoadType="0" Packed="False" />
+      <Resource Name="Scenes/Main" LoadType="0" Packed="False" />
+      <Resource Name="UI/UIForms/UIBattle/UIBattle" LoadType="0" Packed="False" />
+      <Resource Name="UI/UIForms/UILogin/UILogin" LoadType="0" Packed="False" />
+      <Resource Name="UI/UIForms/UIMain/UIMain" LoadType="0" Packed="False" />
+      <Resource Name="UI/UIForms/UpdateResource" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="0e69fd143bd0ed441919638a0a621cfe" ResourceName="Localization/ChineseTraditional/Fonts/MainFont" />
+      <Asset Guid="0f596defdfb2ae14caac5accd8577412" ResourceName="Configs/BuildInfo" />
+      <Asset Guid="1556e7679b71f004f9207dcbd50ed08b" ResourceName="UI/UIForms/UIBattle/UIBattle" />
+      <Asset Guid="15d6e6cda1c70eb4e83f54ea2dc86351" ResourceName="DataTables/Entity" />
+      <Asset Guid="214c8d0b43756134da0af9c6798499f9" ResourceName="UI/UIForms/UILogin/UILogin" />
+      <Asset Guid="2c96c14df54fb8b4c9c22bf3e973dc58" ResourceName="Localization/English/Fonts/MainFont" />
+      <Asset Guid="2d5f957888c2ce544b6320c6fbc26b3b" ResourceName="Configs/ResourceBuilder" />
+      <Asset Guid="2f01b3ee800fa4c4ebe240f2f3a1f72a" ResourceName="Scenes/Battle" />
+      <Asset Guid="360d81fa2639b86488d6a4931e8501ff" ResourceName="Localization/ChineseTraditional/Dictionaries/Default" />
+      <Asset Guid="39d73a6654dd2a348b5b58876fb5869c" ResourceName="DataTables/Entity" />
+      <Asset Guid="3ffae109998ed02409967cda18384c03" ResourceName="DataTables/Scene" />
+      <Asset Guid="40dff68045ccd2245aa10f95451cae6a" ResourceName="Configs/DebuggerSkin" />
+      <Asset Guid="4da56b1690512f14b8578082d6485c13" ResourceName="Configs/BuildSettings" />
+      <Asset Guid="5c4ce0b78392f474f84c4e9541b0f254" ResourceName="Localization/ChineseSimplified/Dictionaries/Default" />
+      <Asset Guid="5f4891b7892d3814fa09b372f3aba4b5" ResourceName="DataTables/Music" />
+      <Asset Guid="611546bdae9015849a813a02d31eeda0" ResourceName="Scenes/Main" />
+      <Asset Guid="61e8d77c7fd63cd48afe8906bb195428" ResourceName="DataTables/UISound" />
+      <Asset Guid="6cc45502d297704409ece7a5ae394ab7" ResourceName="UI/UIForms/UIMain/UIMain" />
+      <Asset Guid="6ecae47c2d6568a4f907e92ec8a853be" ResourceName="HotfixDLL/Hotfix" />
+      <Asset Guid="79985fb8be6d3724580aee85f2055507" ResourceName="Localization/English/Dictionaries/Default" />
+      <Asset Guid="7ea15b29eb6e2754aa40de467a1ce05f" ResourceName="DataTables/Music" />
+      <Asset Guid="8910571ab2c4673458ba153cf1812ed1" ResourceName="DataTables/UISound" />
+      <Asset Guid="8c5304f5a962df34e9a8d4409e406b21" ResourceName="Configs/ResourceEditor" />
+      <Asset Guid="985dfce4072a40848bf51e7cb7afb9cb" ResourceName="DataTables/UIForm" />
+      <Asset Guid="a3bc23b12beceb046b7445048d33423d" ResourceName="Entities/TestEntity" />
+      <Asset Guid="ac2b30b63a9693640b66e1869ff0f06b" ResourceName="UI/UIForms/UpdateResource" />
+      <Asset Guid="b213920be0a6cea4eb6e0a5afd07555e" ResourceName="Configs/DefaultDictionary" />
+      <Asset Guid="b3591aed49bc5fe478ef26005023bb20" ResourceName="Configs/DataTableCodeTemplate" />
+      <Asset Guid="c0a6d6a5655369c40adefb57c8b6eecc" ResourceName="DataTables/Scene" />
+      <Asset Guid="c8427eb9cd657ab41b8c639ef8558c54" ResourceName="DataTables/UIForm" />
+      <Asset Guid="cdf569eaa045c444eb3b1d834bee5fc0" ResourceName="Configs/DefaultConfig" />
+      <Asset Guid="d030fa9314af24c48b8cf66b09e3f689" ResourceName="DataTables/Sound" />
+      <Asset Guid="e54944d89366fab4cae940be53efc703" ResourceName="HotfixDLL/Hotfix" />
+      <Asset Guid="f1b83de86c95b984e973ac6302f31e65" ResourceName="Scenes/Login" />
+      <Asset Guid="f20a9a7ae7f9c554db8c89c4f83d9535" ResourceName="Localization/ChineseSimplified/Fonts/MainFont" />
+      <Asset Guid="f428f90e59d188b47ac5125415c1ba9d" ResourceName="DataTables/Sound" />
+      <Asset Guid="fdd844a88b0d05844a0170df5c941e27" ResourceName="Configs/ResourceCollection" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

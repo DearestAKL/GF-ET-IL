@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3436986545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c80e85910880c6184602f1824fcccf5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ab493987e7f21c78aa4f0707a3219ad
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 12001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Configs/DebuggerSkin.guiskin
+Dependencies: []

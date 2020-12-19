@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1712685853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a78b4a97f06cddf5be9016b28ed4f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Configs/BuildSettings.xml
+Dependencies: []

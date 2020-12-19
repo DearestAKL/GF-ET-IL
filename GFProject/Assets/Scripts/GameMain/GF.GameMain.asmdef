@@ -1,0 +1,18 @@
+{
+    "name": "GF.GameMain",
+    "references": [
+        "UnityGameFramework.Runtime",
+        "GF.Libraries",
+        "FancyScrollView",
+        "GameFramework"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

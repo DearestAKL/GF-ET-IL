@@ -1,0 +1,22 @@
+{
+    "name": "GF.Editor",
+    "references": [
+        "GUID:a2d8a19598eca814496b089021d08d60",
+        "GUID:2616d38d4ba5c6c45ab23109d534f3da",
+        "GUID:9f8d780a83fe4a247b65d5870e23d578",
+        "GUID:363c5eb08ff8e6a439b85e37b8c20d96",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:ccdbe6345dac8ea488eafb9b4ab120db"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

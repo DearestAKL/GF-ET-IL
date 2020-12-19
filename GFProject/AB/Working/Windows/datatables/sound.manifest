@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3420103094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b9ccf9d200dea7ce602c57ff72ecdb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/DataTables/Sound.bytes
+- Assets/Res/DataTables/Sound.txt
+Dependencies: []
