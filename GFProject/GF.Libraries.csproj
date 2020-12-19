@@ -1110,40 +1110,40 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="EPPlus">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/EPPlus.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/EPPlus.dll</HintPath>
     </Reference>
     <Reference Include="ExcelDataReader.DataSet">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/ExcelDataReader.DataSet.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/ExcelDataReader.DataSet.dll</HintPath>
     </Reference>
     <Reference Include="ExcelDataReader">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/ExcelDataReader.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/ExcelDataReader.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.ClipperLib">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/AstarPathfindingProject/Clipper/Pathfinding.ClipperLib.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/AstarPathfindingProject/Clipper/Pathfinding.ClipperLib.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/AstarPathfindingProject/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/AstarPathfindingProject/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Poly2Tri">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/AstarPathfindingProject/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/AstarPathfindingProject/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="NPOI">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/Editor/npoi/NPOI.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/Editor/npoi/NPOI.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OOXML">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/Editor/npoi/NPOI.OOXML.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/Editor/npoi/NPOI.OOXML.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OpenXml4Net">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/Editor/npoi/NPOI.OpenXml4Net.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/Editor/npoi/NPOI.OpenXml4Net.dll</HintPath>
     </Reference>
     <Reference Include="NPOI.OpenXmlFormats">
-      <HintPath>E:/GFProject/GFProject/Assets/Plugins/Editor/npoi/NPOI.OpenXmlFormats.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Plugins/Editor/npoi/NPOI.OpenXmlFormats.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>E:/GFProject/GFProject/Assets/Scripts/Libraries/GameFramework/Libraries/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Assets/Scripts/Libraries/GameFramework/Libraries/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Program/Unity/Unity2019/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -1500,10 +1500,10 @@
       <HintPath>D:/Program/Unity/Unity2019/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/GFProject/GFProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/GFProject/GFProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/GitTest/GFProject/GF+ET+IL/GFProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>

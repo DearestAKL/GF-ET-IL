@@ -525,9 +525,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2753084790195274223}
   - component: {fileID: 7585420926963969812}
-  - component: {fileID: 5680717223305299899}
   - component: {fileID: 2364655187592631489}
-  - component: {fileID: 85315837962399214}
+  - component: {fileID: 5680717223305299899}
   m_Layer: 0
   m_Name: UILogin
   m_TagString: Untagged
@@ -578,6 +577,19 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &2364655187592631489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6386568014325920972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15756c60c8d561f4f9ae2b06003c23e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HotfixUGuiFormName: UILogin
 --- !u!114 &5680717223305299899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -601,32 +613,6 @@ MonoBehaviour:
   - {fileID: 923134595672179817}
   - {fileID: 2408576422849641586}
   - {fileID: 7203486792815497219}
---- !u!114 &2364655187592631489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6386568014325920972}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15756c60c8d561f4f9ae2b06003c23e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_HotfixUGuiFormName: UILogin
---- !u!114 &85315837962399214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6386568014325920972}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69123a589054bf041ba5ead99364646f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scrollView: {fileID: 7203486792815497219}
 --- !u!1 &7889623720826120531
 GameObject:
   m_ObjectHideFlags: 0

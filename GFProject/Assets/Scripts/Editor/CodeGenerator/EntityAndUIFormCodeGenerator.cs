@@ -153,7 +153,7 @@ namespace Trinity.Editor
             }
         }
 
-        public void GenEntityCode()
+        private void GenEntityCode()
         {
             //根据是否为热更新实体来决定一些参数
             string codepath = m_IsHotfix ? HotfixEntityCodePath : EntityCodePath;
@@ -186,7 +186,7 @@ namespace Trinity.Editor
 
         }
 
-        public void GenUIFormCode()
+        private void GenUIFormCode()
         {
             //根据是否为热更新界面来决定一些参数
             string codepath = m_IsHotfix ? HotfixUIFormCodePath : UIFormCodePath;
@@ -210,7 +210,7 @@ namespace Trinity.Editor
 
         }
 
-        public void GenUIItemCode()
+        private void GenUIItemCode()
         {
             //根据是否为热更新UIItem来决定一些参数
             string codepath = m_IsHotfix ? HotfixUIItemCodePath : UIItemCodePath;

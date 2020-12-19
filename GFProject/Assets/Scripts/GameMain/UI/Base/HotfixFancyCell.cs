@@ -10,7 +10,7 @@ using FancyScrollView.Example01;
 
 namespace Trinity
 {
-    public class HotfixFancyCell: FancyCell<ItemData>
+    public class HotfixFancyCell<T>: FancyCell<T>
     {
         [SerializeField]
         private string m_HotfixFancyCellName;
@@ -26,7 +26,26 @@ namespace Trinity
         private ILInstanceMethod m_UpdateContent;
         private ILInstanceMethod m_UpdatePosition;
 
-        public override void UpdateContent(ItemData itemData)
+        public override void Initialize()
+        {
+            base.Initialize();
+
+            string hotfixFancyCellName = Utility.Text.Format("{0}.{1}", "Trinity.Hotfix", m_HotfixFancyCellName);
+
+            //获取热更新层的实例
+            IType type = GameEntry.ILRuntime.AppDomain.LoadedTypes[hotfixFancyCellName];
+            m_HotfixInstance = ((ILType)type).Instantiate();
+
+            //获取热更新层的方法并缓存
+
+        }
+
+        public override void SetVisible(bool visible)
+        {
+            base.SetVisible(visible);
+        }
+
+        public override void UpdateContent(T itemData)
         {
             throw new System.NotImplementedException();
         }

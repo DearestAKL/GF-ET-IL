@@ -82,19 +82,19 @@ namespace Trinity.Editor
                 AutoBindComponent();
             }
 
-            EditorGUILayout.EndHorizontal();
+            //EditorGUILayout.EndHorizontal();
 
-            EditorGUILayout.BeginHorizontal();
+            //EditorGUILayout.BeginHorizontal();
 
-            if (GUILayout.Button("生成绑定代码"))
-            {
+            //if (GUILayout.Button("生成绑定代码"))
+            //{
                 
-            }
+            //}
 
-            genCodeType = (GenCodeType)EditorGUILayout.
-            EnumPopup("脚本类型:",genCodeType);
+            //genCodeType = (GenCodeType)EditorGUILayout.
+            //EnumPopup("脚本类型:",genCodeType);
 
-            EditorGUILayout.EndHorizontal();
+            //EditorGUILayout.EndHorizontal();
 
             DrawKvData();
 

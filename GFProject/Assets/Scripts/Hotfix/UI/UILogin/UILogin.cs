@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
-//自动生成于：2020/12/17 19:39:31
+//自动生成于：2020/12/19 18:28:08
 namespace Trinity.Hotfix
 {
 
@@ -15,9 +16,11 @@ namespace Trinity.Hotfix
 
 			GetBindComponents(uiFormLogic.gameObject);
 
-			btnToBattle.SetGoActive(false);
+			var items = Enumerable.Range(0, 20)
+			.Select(i => new FancyScrollView.Example01.ItemData($"Cell {i}"))
+			.ToArray();
 
-			Debug.Log("打开了登录界面");
+			sViewList.UpdateData(items);
 		}
 	}
 }
